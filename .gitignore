@@ -1,0 +1,6 @@
+/front/node_modules
+/back/static
+/front/dist
+/back/template
+/back/output
+.DS_Store
